@@ -1,0 +1,30 @@
+a.
+def search(my.ss):
+count=0
+my=my.split() for i in range (O,len(my) if ss=my[i]:
+count=count+l
+ if count==0:
+  print(" no substring found") 
+ else:
+  print('l substring found",count 
+mystring="A greek in need is a greek indeed"
+ss=input("Enter substring to search") 
+search(mystring.ss)
+
+b.
+ (j)Traversal operation
+ d={1:'one',2:'two',3:'three',4:'four'} 
+ print(d) for i in d:
+  print(i,d[i]) 
+  
+  
+  c.
+  (jj)Keys(),Values(),items()
+# Dictionary with three keys
+Dictionaryl = {'A': 'Geeks ' B 'For',	'Geeks'}
+# Printing keys of dictionary print(Dictionary1.keys())
+# numerical values dictionary = {"raj": 2, "striver": 3, "vikram": 4} print(dictionary.values())
+# string values dictionary = {"geeks": "5", "for": "3", "Geeks": "5"} print(dictionary.values())
+# Dictionary with three items
+Dictionaryl = { 'A': 'Geeks', 'B'.• 4, 'Geeks' } print("Dictionary items:")
+# Printing all the items of the Dictionary print(Dictionary1.items())
